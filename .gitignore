@@ -2,6 +2,7 @@
 data/exports/**
 !data/exports/tmp.txt
 .idea
+data/imports/flow-2_output.txt
 
 # Sourced from https://raw.githubusercontent.com/jupyter/notebook/main/.gitignore :
 *.bundle.*
